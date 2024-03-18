@@ -1,0 +1,23 @@
+-rw-r--r-- 1 jsing 197609   0 Mar 18 19:50 abc
+-rw-r--r-- 1 jsing 197609   0 Mar 18 19:50 abcabc
+-rwxr-xr-x 1 jsing 197609  78 Mar 15 16:20 dummy.sh
+-rw-r--r-- 1 jsing 197609   0 Mar 18 19:21 file3.deb
+-rw-r--r-- 1 jsing 197609  19 Mar 18 19:21 files
+-rwxr-xr-x 1 jsing 197609  97 Mar 11 00:16 first.sh
+-rwxr-xr-x 1 jsing 197609 103 Mar 11 11:53 for.sh
+-rwxr-xr-x 1 jsing 197609 172 Mar 11 11:49 for_loop.sh
+-rwxr-xr-x 1 jsing 197609 146 Mar 11 21:47 if_example.sh
+-rwxr-xr-x 1 jsing 197609 118 Mar 18 19:20 movefile.sh
+-rw-r--r-- 1 jsing 197609  96 Mar 18 19:50 ppa2.sh
+-rwxr-xr-x 1 jsing 197609 124 Mar 11 00:20 reading_input.sh
+-rwxr-xr-x 1 jsing 197609 186 Mar 11 16:08 select.sh
+-rwxr-xr-x 1 jsing 197609 157 Mar 11 11:25 until.sh
+-rwxr-xr-x 1 jsing 197609 128 Mar 11 11:19 while.sh
+
+folders:
+total 0
+
+level1:
+total 0
+-rw-r--r-- 1 jsing 197609 0 Mar 18 19:21 fil1.txt
+-rw-r--r-- 1 jsing 197609 0 Mar 18 19:21 file2.txt
