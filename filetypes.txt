@@ -1,0 +1,25 @@
+abc:              empty
+abcabc:           empty
+dummy.sh:         Bourne-Again shell script, ASCII text executable
+file3.deb:        empty
+files:            ASCII text
+first.sh:         Bourne-Again shell script, ASCII text executable
+folders:          directory
+for.sh:           Bourne-Again shell script, ASCII text executable
+for_loop.sh:      Bourne-Again shell script, ASCII text executable
+grpa1_1.sh:       Bourne-Again shell script, ASCII text executable
+grpa2_1.sh:       Bourne-Again shell script, ASCII text executable
+grpa3_1.sh:       Bourne-Again shell script, ASCII text executable
+grpa4_1.sh:       Bourne-Again shell script, ASCII text executable
+if_example.sh:    Bourne-Again shell script, ASCII text executable
+level1:           directory
+movefile.sh:      Bourne-Again shell script, ASCII text executable
+ppa2.sh:          ASCII text
+present.sh:       very short file (no magic)
+present.txt:      ASCII text
+reading_input.sh: Bourne-Again shell script, ASCII text executable
+select.sh:        Bourne-Again shell script, ASCII text executable
+someFile.txt:     ASCII text
+systemcommands:   empty
+until.sh:         Bourne-Again shell script, ASCII text executable
+while.sh:         Bourne-Again shell script, ASCII text executable
