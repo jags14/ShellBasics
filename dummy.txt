@@ -1,0 +1,3 @@
+filetypes.txt: ASCII text
+present.txt:   ASCII text
+someFile.txt:  ASCII text
