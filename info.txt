@@ -1,0 +1,1 @@
+Shell : /usr/bin/bash | PID: 2162 | Flags: hB
